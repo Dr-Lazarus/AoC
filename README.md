@@ -24,10 +24,14 @@ This repo is for sharing your solutions in an organized and collaborative way.
 
 4.  **Include a README in the day folder explaining your approach**  
     Example content for `README.md` inside `day01`:
+    ```markdown
         # Day 01 Solution
         ## Approach
         - Briefly explain your logic.
         - Mention any optimizations or interesting techniques.
+    ```
+
+      
 
 ***
 
@@ -47,6 +51,14 @@ This repo is for sharing your solutions in an organized and collaborative way.
     │   │   └── README.md
 
 ***
+
+## Branch Protection Rules
+
+* Direct merges to the main branch are not allowed.
+* You must create a Pull Request (PR) to merge your changes into main.
+* Ensure your PR includes:
+    * A clear description of what you added.
+    * Proper folder structure as outlined above.
 
 ## Contribution Guidelines
 
